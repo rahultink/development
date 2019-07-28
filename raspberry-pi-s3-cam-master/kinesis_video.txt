@@ -1,0 +1,8 @@
+export AWS_ACCESS_KEY_ID=AKIA2EJX26AUHRP5MPYC
+export AWS_SECRET_ACCESS_KEY=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
+
+export AWS_ACCESS_KEY_ID=AKIA2EJX26AUHRP5MPYC
+export AWS_SECRET_ACCESS_KEY=kkKmfZo3OKohGQQzpLVfXuC7SOtHwX0ijYJjy/8H
+./kinesis_video_gstreamer_sample_app rahul-pi
+
+./kinesis_video_gstreamer_sample_app rahul-pi -w 640 -h 480 -f 15

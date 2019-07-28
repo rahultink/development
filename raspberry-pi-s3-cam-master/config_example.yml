@@ -1,0 +1,15 @@
+s3:
+    access_key_id: 'AKIA2EJX26AUHRP5MPYC'
+    secret_access_key: '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'
+    bucket_name: 'rahul'
+
+image_settings:
+    horizontal_res: 640
+    vertical_res: 480
+    file_name: 'rahul'
+    file_extension: '.jpg'
+    folder_name: '/home/pi/demo'
+    awb_mode: 'auto'
+    photo_interval: 60
+
+debug: true
